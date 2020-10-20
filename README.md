@@ -1,5 +1,6 @@
 Social media application built using Flutter and integrated with Google Firebase.  
 Users can follow, post, comment, like and connect with each other. 
+
 Application's Screenshots
 
 ![Screenshot_20201020-160622](https://user-images.githubusercontent.com/54983964/96575692-b8fc7000-12ee-11eb-82ae-c29e024d1bf9.png)
